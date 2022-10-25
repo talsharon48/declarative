@@ -1,4 +1,4 @@
-module declarative
+module github.com/talsharon48/declarative
 
 go 1.19
 
